@@ -1,4 +1,4 @@
 [submodule "shop"]
-	url = https://github.com/wkrause1/Store-Frontend
+	url = http://github.com/wkrause1/Store-Frontend
 [submodule "shop_backend/shop"]
-	url = https://github.com/wkrause1/Store-Backend
+	url = http://github.com/wkrause1/Store-Backend
